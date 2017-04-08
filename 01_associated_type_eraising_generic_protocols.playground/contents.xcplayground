@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Associated Type with Where'/>
+        <page name='Type Eraser'/>
+        <page name='Protoocl Oriented Identifier'/>
+        <page name='Protocol Orietned Storyboard'/>
+        <page name='Protocol Oriented UserDefault'/>
+    </pages>
+</playground>
